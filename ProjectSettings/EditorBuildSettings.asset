@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1. Loading/Splash.unity
+    guid: c39d6b793a2994e5b8f2fcc8ed6d1cdb
+  - enabled: 1
+    path: Assets/Scenes/2. Menus/Menu.unity
+    guid: 59ccbc2df29f14032a64b15e99856cf1
+  - enabled: 1
+    path: Assets/Scenes/3. Levels/Target Practice.unity
+    guid: af599eb1114ae481a881a730a179bfd4
+  - enabled: 1
+    path: Assets/Scenes/4. Endings/Win.unity
+    guid: de02b51e0dd4147258f1f819fec9e83d
+  - enabled: 1
+    path: Assets/Scenes/2. Menus/Story Explanation.unity
+    guid: 577f815c58749a241a6772e7744ed411
+  - enabled: 1
+    path: Assets/Scenes/3. Levels/Space Battle.unity
+    guid: 128bfa22b92a4484783aeef7e377aff9
+  - enabled: 1
+    path: Assets/Scenes/4. Endings/SuperWin.unity
+    guid: 2d22f1599ba8bde4aa4c2b6847264ab8
+  m_configObjects: {}
